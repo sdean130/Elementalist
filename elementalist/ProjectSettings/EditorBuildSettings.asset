@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/main menu/MainMenu.unity
+    guid: 85f67205a67950e4ca192553b02560ee
+  - enabled: 1
+    path: Assets/scenes/forestLevel/Forest.unity
+    guid: 768869dadca074c339bec595e141c360
+  - enabled: 1
+    path: Assets/scenes/firstTemple/temple.unity
+    guid: cb2ff84c462ad439b89b0f9b811992cb
+  - enabled: 1
+    path: Assets/scenes/combat/combat.unity
+    guid: 53923a3ac1e064ad5b99c156f9bedf11
+  - enabled: 1
+    path: Assets/scenes/coast/coast.unity
+    guid: 53e5d6ba2f4d04de2ae273da81add209
+  - enabled: 0
+    path: Assets/Pause Menu/PauseMenu.unity
+    guid: d52523246c8c29548a55e6018e345b6d
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}

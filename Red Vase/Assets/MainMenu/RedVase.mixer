@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!241 &24100000
+AudioMixerController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RedVase
+  m_OutputGroup: {fileID: 0}
+  m_MasterGroup: {fileID: 24300002}
+  m_Snapshots:
+  - {fileID: 24500006}
+  - {fileID: 245948223490652840}
+  m_StartSnapshot: {fileID: 24500006}
+  m_SuspendThreshold: -80
+  m_EnableSuspend: 1
+  m_UpdateMode: 0
+  m_ExposedParameters:
+  - guid: b6d29014749e9e04191c4903ff7404b4
+    name: Volume
+  m_AudioMixerGroupViews:
+  - guids:
+    - ddb0f6518badcbf4c85a8bc78791cac3
+    - ad4f780f73148674db3ba12d36a894de
+    - 3838894aa248036438dd6b00f14a643b
+    name: View
+  m_CurrentViewIndex: 0
+  m_TargetSnapshot: {fileID: 245948223490652840}
+--- !u!243 &24300002
+AudioMixerGroupController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Master
+  m_AudioMixer: {fileID: 24100000}
+  m_GroupID: ddb0f6518badcbf4c85a8bc78791cac3
+  m_Children:
+  - {fileID: 243284436970059556}
+  - {fileID: 243090730837783550}
+  m_Volume: b6d29014749e9e04191c4903ff7404b4
+  m_Pitch: 355c94093ef2250488529972ce4b0216
+  m_Effects:
+  - {fileID: 24400004}
+  m_UserColorIndex: 0
+  m_Mute: 0
+  m_Solo: 0
+  m_BypassEffects: 0
+--- !u!244 &24400004
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_EffectID: 3d6278e9d05e77b49bbc50d424337860
+  m_EffectName: Attenuation
+  m_MixLevel: f26af2dff6a9a5d4fb7aab856ae7f839
+  m_Parameters: []
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0
+--- !u!245 &24500006
+AudioMixerSnapshotController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MainMenu
+  m_AudioMixer: {fileID: 24100000}
+  m_SnapshotID: b248b0ee4b98f324bb4531ac2a60437f
+  m_FloatValues:
+    b6d29014749e9e04191c4903ff7404b4: -0.000046635047
+  m_TransitionOverrides: {}
+--- !u!243 &243090730837783550
+AudioMixerGroupController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: VaseGuy
+  m_AudioMixer: {fileID: 24100000}
+  m_GroupID: 3838894aa248036438dd6b00f14a643b
+  m_Children: []
+  m_Volume: cc55e291fcdf0b74cad1d72da223bfd0
+  m_Pitch: 3aec164c2d6b59f429a3360275fbc348
+  m_Effects:
+  - {fileID: 244589934399450208}
+  m_UserColorIndex: 0
+  m_Mute: 0
+  m_Solo: 0
+  m_BypassEffects: 0
+--- !u!243 &243284436970059556
+AudioMixerGroupController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: MainMenu
+  m_AudioMixer: {fileID: 24100000}
+  m_GroupID: ad4f780f73148674db3ba12d36a894de
+  m_Children: []
+  m_Volume: b602255f3e5fc3c40b53f2831880eb74
+  m_Pitch: ea2f1f22e8fa66642919482b0f7424e5
+  m_Effects:
+  - {fileID: 244808756373446516}
+  m_UserColorIndex: 0
+  m_Mute: 0
+  m_Solo: 0
+  m_BypassEffects: 0
+--- !u!244 &244589934399450208
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_EffectID: 54d059a104745ea4b9aaa310b5458e87
+  m_EffectName: Attenuation
+  m_MixLevel: bad2a1729d9b3ab4cb4ed65fe26655c8
+  m_Parameters: []
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0
+--- !u!244 &244808756373446516
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: 
+  m_EffectID: 6ea88356ff397bb489b3968c9c2dc6d8
+  m_EffectName: Attenuation
+  m_MixLevel: 30772f87535d2514999a24d1dc0eccca
+  m_Parameters: []
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0
+--- !u!245 &245948223490652840
+AudioMixerSnapshotController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: VaseGuy
+  m_AudioMixer: {fileID: 24100000}
+  m_SnapshotID: e071c4c744ee0f9478ff69b4b609dafe
+  m_FloatValues:
+    b6d29014749e9e04191c4903ff7404b4: -0.000046635047
+  m_TransitionOverrides: {}

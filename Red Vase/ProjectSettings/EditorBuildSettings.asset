@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu/Main Menu.unity
+    guid: 28a9431abdafbae409adaae81b003325
+  - enabled: 1
+    path: Assets/VaseHouse/VaseHouse.unity
+    guid: 05d5a3d0cef9c204a871d0d30d7db918

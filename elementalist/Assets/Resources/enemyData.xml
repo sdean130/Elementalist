@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<enemyOptions>
+    <enemies>
+        <enemy name = "goon">
+            <ID> 1 </ID>
+            <health> 100 </health>
+            <armor>.6</armor>
+            <stat>50</stat>
+        </enemy>
+        <enemy name = "boss">
+            <ID> 2 </ID>
+            <health> 100 </health>
+            <armor>.2</armor>
+            <stat>90</stat>
+        </enemy>        
+    </enemies>>
+</enemyOptions>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characterOptions>
+    <characters>
+        <character name = "main">
+            <ID>1</ID>
+            <health>200</health>
+            <hrecovery>.2</hrecovery>
+            <resource>100</resource>
+            <srecovery>.15</srecovery>
+            <armor>.8</armor>
+            <stat>80</stat>
+            <initiative>.5</initiative>
+        </character>
+        <character name = "mage">
+            <ID>2</ID>
+            <health>180</health>
+	        <hrecovery>.1</hrecovery>
+	        <resource>200</resource>
+	        <mrecovery>.2</mrecovery>
+            <armor>.8</armor>
+            <stat>100</stat>
+            <initiative>.65</initiative>
+        </character>
+        <character name = "tank">
+            <ID>3</ID>
+            <health> 300 </health>
+	        <hrecovery>.2</hrecovery>
+	        <resource>100</resource>
+	        <srecovery>.15</srecovery>
+            <armor>.4</armor>
+            <stat>50</stat>
+            <initiative>.7</initiative>
+        </character>
+        <character name = "support">
+            <ID>4</ID>
+            <health>160</health>
+	        <hrecovery>.1</hrecovery>
+	        <resource>200</resource>
+	        <mrecovery>.2</mrecovery>
+            <armor>.7</armor>
+            <stat>70</stat>
+            <initiative>.45</initiative>
+        </character>
+    </characters>
+</characterOptions>
+

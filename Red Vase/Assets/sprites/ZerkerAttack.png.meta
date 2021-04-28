@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 3f30ec1063b1bf44ca8cb24ec8fa70b0
+timeCreated: 1523229592
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ZerkerAttack_0
+    21300002: ZerkerAttack_1
+    21300004: ZerkerAttack_2
+    21300006: ZerkerAttack_3
+    21300008: ZerkerAttack_4
+    21300010: ZerkerAttack_5
+    21300012: ZerkerAttack_6
+    21300014: ZerkerAttack_7
+    21300016: ZerkerAttack_8
+    21300018: ZerkerAttack_9
+    21300020: ZerkerAttack_10
+    21300022: ZerkerAttack_11
+    21300024: ZerkerAttack_12
+    21300026: ZerkerAttack_13
+    21300028: ZerkerAttack_14
+    21300030: ZerkerAttack_15
+    21300032: ZerkerAttack_16
+    21300034: ZerkerAttack_17
+    21300036: ZerkerAttack_18
+    21300038: ZerkerAttack_19
+    21300040: ZerkerAttack_20
+    21300042: ZerkerAttack_21
+    21300044: ZerkerAttack_22
+    21300046: ZerkerAttack_23
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ZerkerAttack_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 642
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 642
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 642
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_3
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 642
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_4
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 642
+        width: 81
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_5
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 642
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_6
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 447
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_7
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 450
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_8
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 450
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_9
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 450
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_10
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 450
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_11
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 450
+        width: 90
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 255
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0.6361966, y: 0.55481553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 258
+        width: 45
+        height: 46
+      alignment: 9
+      pivot: {x: 0.7234626, y: 0.55652785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 258
+        width: 40
+        height: 47
+      alignment: 9
+      pivot: {x: 0.7166039, y: 0.5459439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_15
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 258
+        width: 53
+        height: 48
+      alignment: 9
+      pivot: {x: 0.7481943, y: 0.5336291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_16
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 237
+        width: 81
+        height: 69
+      alignment: 9
+      pivot: {x: 0.55017394, y: 0.6754978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_17
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 240
+        width: 72
+        height: 66
+      alignment: 9
+      pivot: {x: 0.16167027, y: 0.6607111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_18
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 63
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_19
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 66
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_20
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 66
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_21
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 66
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_22
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 66
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ZerkerAttack_23
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 66
+        width: 90
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
